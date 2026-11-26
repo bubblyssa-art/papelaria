@@ -1,17 +1,21 @@
-# papelaria
+Papelaria
 
-A new Flutter project.
+Aplicativo desenvolvido utilizando Flutter e Dart para o gerenciamento de produtos de uma papelaria.
 
-## Getting Started
+Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O Papelaria é um aplicativo que permite realizar o gerenciamento de produtos por meio das operações de cadastro, consulta, edição e exclusão.
 
-A few resources to get you started if this is your first Flutter project:
+O projeto foi desenvolvido como atividade acadêmica, com o objetivo de aplicar conceitos de desenvolvimento de interfaces e operações CRUD utilizando Flutter.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Funcionalidades
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cadastro: permite adicionar novos produtos informando produto, marca e categoria.
+
+Listagem: apresenta os produtos cadastrados e suas respectivas informações.
+
+Edição: permite alterar os dados de um produto existente.
+
+Exclusão: permite remover produtos mediante confirmação.
+
+Validação: impede o cadastro de campos vazios ou preenchidos apenas com espaços.
